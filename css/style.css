@@ -1,0 +1,156 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.image {
+	background-image: url("../images/header_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	box-sizing: border-box;
+	height: 500px ;
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 48px;
+	color: #fff;
+	padding-left: 40px;
+	margin-top: 0px;
+}
+
+h2 {
+	font-weight: 600;
+	font-size: 48px;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 82px;
+}
+
+.signup{
+	font-weight: 800;
+	font-size: 28px;
+	text-align: center;
+	border-radius: 5px;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0px auto;
+	display: block;
+	width: 300px;
+}
+
+.button1 {
+	background-color: #f9e42e;
+	color: #033048;
+}
+
+.benefits{
+	background-color: #f0efef;
+	padding-left: 90px;
+	padding-top: 30px;
+}
+
+h3{
+	font-weight:600;
+	font-size:40px;
+	color: #033048;
+	margin-bottom: 5px;
+}
+
+
+.benefits-text{
+	margin-top: 20px;
+	font-weight: 200;
+	font-size:26px;
+	color: #606161;
+	padding-left: 8px;
+}
+
+ul{
+	font-weight: 200;
+	font-size: 26px;
+	padding-left: 115px;
+	color: #606161;
+	padding-bottom: 75px;
+	padding-top: 27px;
+	margin-bottom: 0px;
+}
+
+.testimonial {
+	background-image: url("../images/testimonial_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	box-sizing: border-box;
+	height: 400px ;
+}
+
+.testimonial-text{
+	font-weight:200;
+	font-style: italic;
+	font-size:36px;
+	text-align: center;
+	color: white;
+	padding-top: 70px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.testimonial-name{
+	font-weight:600;
+	font-size:36px;
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 9px;
+}
+
+
+footer{
+	text-align: center;
+	background-color: #121212;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.button2{
+	color: white;
+	background-color: #033048;
+}
+
+.yellowbanner{
+	background-color: yellow;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+
+#logo {
+	font-weight:800;
+	font-size:48px;
+	color:#f9e42e;
+	margin-top:0px;
+}
+
+#twitter {
+	margin-right: 20px;
+}
+
+#fb {
+	margin-left: 20px;
+}
+
+.copyright {
+	font-weight:600;
+	font-size:18px;
+	color:white;
+	margin-bottom: 0px;
+	padding-top: 25px;
+}
